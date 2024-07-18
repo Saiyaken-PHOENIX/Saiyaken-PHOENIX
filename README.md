@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saiyaken-PHOENIX
-- 👀 I’m interested in learning coding to start my career
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in learning coding to do my own thing
+- 🌱 I’m currently learning GB Studio and Assembly
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
