@@ -1,4 +1,10 @@
-I have a certain disdain for many giga-corpos. such as Facebook, Apple, Google, Microsoft, Amazon and Netflix.
+I have a certain disdain for many giga-corpos. such as, but not limited to... 
+Facebook
+Apple
+Google
+Microsoft
+Amazon
+Netflix
 
 I do NOT want your Gemini Copilot GPT nonsense.
 
