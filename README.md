@@ -1,4 +1,6 @@
 I have a certain disdain for many giga-corpos. such as, but not limited to... 
+___
+
 Facebook (Meta, all the AI garbage as well)
 
 Apple (Self-explanatory)
@@ -11,6 +13,7 @@ Amazon (Scams all the way around, made to destroy mom-and-pop shops)
 
 Netflix (Scams with forced compliance of passwords and payments long before due date)
 
+___
 
 I do NOT want your Gemini Copilot GPT nonsense.
 
