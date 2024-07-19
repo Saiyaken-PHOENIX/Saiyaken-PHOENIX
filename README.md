@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Saiyaken-PHOENIX
-- 👀 I’m interested in learning coding to do my own thing
-- 🌱 I’m currently learning GB Studio and Assembly
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I have a certain disdain for many giga-corpos. such as Facebook, Apple, Google, Microsoft, Amazon and Netflix.
+
+I do NOT want your Gemini Copilot GPT nonsense.
+
+Probably gonna head to Codeberg at some point
 
 <!---
 Saiyaken-PHOENIX/Saiyaken-PHOENIX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
