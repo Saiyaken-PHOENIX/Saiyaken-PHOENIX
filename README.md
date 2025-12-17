@@ -1,3 +1,5 @@
+Just a gamer/aspiring game dev with a music background.  Only interested in working in projects for the Free (Libre) and Open Source Software community.
+
 I have a certain disdain for many giga-corpos. such as, but not limited to... 
 ___
 
